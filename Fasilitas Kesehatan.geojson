@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Faskes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Puskesmas Monterado", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 109.1304826, 0.76135, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Puskesmas Pembantu Jahandung", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 109.1199124, 0.7255329, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Poskesdes Goa Boma", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 109.0654226, 0.7418364, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Poskesdes Beringin", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 109.1301383, 0.8151485, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "BPM TRI WAHYUNI", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 109.1336507, 0.7574509, 0.0 ] } }
+]
+}

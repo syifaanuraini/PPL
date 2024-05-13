@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Masjid</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Masjid Baiturrahim Gerantung</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1074073,0.8617153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Masjid Jami' Darussalam]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1636274,0.8717044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Ulul Azmi</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1635318,0.8645384,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid AL-FITRAH</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1576373,0.8597371,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid AN-NUR</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1038014,0.8364391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Al Ikhlas</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1317919,0.799619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Al Muhajirin</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.131317,0.79511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Surau Al Huda Monterado</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1343559,0.7555204,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Al Amin</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1343785,0.7566356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mesjid Rahmatullah</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1347443,0.7575156,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Al Furqon</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1343785,0.7566356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Darul Muttaqin</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1343785,0.7566356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Darul Istiqomah</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1343785,0.7566356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid darul istiqomah</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1283219,0.8607142,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

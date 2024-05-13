@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Gereja</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[GKE "Efata" Monterado]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1386296,0.7547665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gereja Katolik St. Petrus Pakucing Kecamatan Monterado</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1148809,0.8472145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gereja Katolik St. Montfort Paroki Monterado</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1323906,0.7599625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gereja Bethel Tabernakel</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1326629,0.7972904,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GEREJA KATHOLIK SANTO PIUS X</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.0601933,0.7409788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gereja Katolik St. Yohanes</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.05478,0.798685,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gereja kristen setia indonesia</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.0556334,0.803053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gereja GBI Monterado</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1400598,0.7512635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GJKI Jemaat PETRA SERINDU ,Monterado, Kalimantan Barat</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.0916815,0.6863045,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gereja Katolik Santo Yohanes</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.0918538,0.8268621,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GEREJA KATHOLIK SANTO PIUS X</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.0601933,0.7409788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gereja Katolik St. Yohanes</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.05478,0.798685,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

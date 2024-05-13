@@ -1,0 +1,219 @@
+9<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sekolah Dasar (SD)</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>SDN 01 Monterado</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1343115,0.7582715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 02 Nyempen</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1534364,0.7430362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 03 Nek Ginap</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1850192,0.7271419,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sdn 04 Sipkanyin</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1204103,0.8008406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SD N 5 Sansibo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1311014,0.7779389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 06 Bonglitung</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1066065,0.769321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 08 Goa Boma</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.0543411,0.7443762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 09 Padagi</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.092057,0.70867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SD Negeri 10 Sibaju</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.0949745,0.697682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 13 Marga Mulya, Monterado, Bengkayang, Kalimantan Barat</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1326032,0.8066726,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 14 Puaje</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1267311,0.8437352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 16 Sendoreng</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1042808,0.8357964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 17 Monterado</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1166566,0.8016697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 18 Kampung Baru I</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1361532,0.8478635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 19 KAMPUNG BARU II</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.153093,0.8594458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sdn 20</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1257689,0.8611951,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sdn 21 Rantau Sebaju</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.0558344,0.8024012,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN 23 SP3 Jahandung</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.0572086,0.7569525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SD Negeri 29 Roangan</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          109.1826107,0.7028911,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
